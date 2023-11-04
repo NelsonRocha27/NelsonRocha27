@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+
+### ABOUT 👋
+
+<div align="left">
+Hello there! I'm Nelson, a software engineer with a strong enthusiasm for embedded system programming. My journey in the world of programming has been an exciting blend of learning and practical application, which has fueled my drive to contribute and create impactful solutions. I thrive on challenges and enjoy exploring innovative solutions. My professional experiences have allowed me to work on diverse projects in automotive industry, where I have leveraged my expertise to deliver robust and efficient solutions.  
 
 <div align="center">
 	
@@ -29,6 +34,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Yocto](https://img.shields.io/badge/yocto-FFFFFF?style=for-the-badge)
 
 <div align="center">
 
