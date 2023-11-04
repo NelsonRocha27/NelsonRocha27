@@ -2,7 +2,7 @@
 
 ## ᴀʙᴏᴜᴛ 👋
 
-<div align="left">
+<div align="justify">
 Hello there! I'm Nelson, a software engineer with a strong enthusiasm for embedded system programming. My journey in the world of programming has been an exciting blend of learning and practical application, which has fueled my drive to contribute and create impactful solutions. I thrive on challenges and enjoy exploring innovative solutions. My professional experiences have allowed me to work on diverse projects in automotive industry, where I have leveraged my expertise to deliver robust and efficient solutions.  
 
 <div align="center">
