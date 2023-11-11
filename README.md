@@ -36,6 +36,7 @@ Hello there! I'm Nelson, a software engineer with a strong enthusiasm for embedd
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Yocto](https://img.shields.io/badge/yocto-FFFFFF?style=for-the-badge)
 ![Gerrit](https://img.shields.io/badge/gerrit-00599C.svg?style=for-the-badge&logo=gerrit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
 
